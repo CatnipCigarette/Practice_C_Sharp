@@ -1,0 +1,36 @@
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.AssemblyReference.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.AssemblyInfoInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.AssemblyInfo.cs
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.CoreCompileInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.exe
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.deps.json
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.runtimeconfig.json
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\ShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\bin\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.CopyComplete
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\refint\CheckShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.genruntimeconfig.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckShapeLib\obj\Debug\net6.0\ref\CheckShapeLib.dll
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.exe
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.deps.json
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.runtimeconfig.json
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.dll
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\CheckShapeLib.pdb
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\ShapeLib.dll
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\bin\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.csproj.CopyComplete
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.dll
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\refint\CheckShapeLib.dll
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.pdb
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\CheckShapeLib.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les18\CheckShapeLib\obj\Debug\net6.0\ref\CheckShapeLib.dll

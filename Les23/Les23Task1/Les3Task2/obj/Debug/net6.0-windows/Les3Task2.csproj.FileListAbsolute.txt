@@ -1,0 +1,17 @@
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\bin\Debug\net6.0-windows\Les3Task2.exe
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\bin\Debug\net6.0-windows\Les3Task2.deps.json
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\bin\Debug\net6.0-windows\Les3Task2.runtimeconfig.json
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\bin\Debug\net6.0-windows\Les3Task2.dll
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\bin\Debug\net6.0-windows\Les3Task2.pdb
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.Form1.resources
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.csproj.GenerateResource.cache
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.dll
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\refint\Les3Task2.dll
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.pdb
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\Les3Task2.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les23\Les3Task2\Les3Task2\obj\Debug\net6.0-windows\ref\Les3Task2.dll

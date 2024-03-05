@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les8\Ula\bin\Debug\net6.0\Ula.exe
+E:\Учёба\Практика по пр\Les8\Ula\bin\Debug\net6.0\Ula.deps.json
+E:\Учёба\Практика по пр\Les8\Ula\bin\Debug\net6.0\Ula.runtimeconfig.json
+E:\Учёба\Практика по пр\Les8\Ula\bin\Debug\net6.0\Ula.dll
+E:\Учёба\Практика по пр\Les8\Ula\bin\Debug\net6.0\Ula.pdb
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.dll
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\refint\Ula.dll
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.pdb
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\Ula.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les8\Ula\obj\Debug\net6.0\ref\Ula.dll

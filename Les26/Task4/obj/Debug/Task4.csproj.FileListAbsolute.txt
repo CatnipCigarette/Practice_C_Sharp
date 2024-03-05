@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\MainWindow.baml
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\MainWindow.g.cs
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\App.g.cs
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4_MarkupCompile.cache
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.g.resources
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.Properties.Resources.resources
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les26\Task4\bin\Debug\Task4.exe.config
+E:\Учёба\Практика по пр\Les26\Task4\bin\Debug\Task4.exe
+E:\Учёба\Практика по пр\Les26\Task4\bin\Debug\Task4.pdb
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.exe
+E:\Учёба\Практика по пр\Les26\Task4\obj\Debug\Task4.pdb

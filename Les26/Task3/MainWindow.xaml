@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="График функции" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button Content="Построить" Click="ButtonPlot_Click" Width="124" RenderTransformOrigin="3.468,0.403" Height="20"/>
+            <Label Content="Xmin:"/>
+            <TextBox x:Name="TextBoxXMin" Width="85" Height="18"/>
+            <Label Content="Xmax:"/>
+            <TextBox x:Name="TextBoxXMax"  Width="85" Height="18"/>
+            <Label Content="h:"/>
+            <TextBox x:Name="TextBoxH" Width="85" Height="18"/>
+        </StackPanel>
+
+        <lvc:CartesianChart Grid.Row="1" x:Name="Chart">
+            <lvc:CartesianChart.Series>
+                <lvc:LineSeries Title="Sqrt(x)" Values="{Binding DataPoints}"/>
+            </lvc:CartesianChart.Series>
+        </lvc:CartesianChart>
+    </Grid>
+</Window>

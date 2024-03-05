@@ -1,0 +1,36 @@
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\CheckBread.exe
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\CheckBread.deps.json
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\CheckBread.runtimeconfig.json
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\CheckBread.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\CheckBread.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\BreadLib.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\bin\Debug\net6.0\BreadLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.csproj.AssemblyReference.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.AssemblyInfoInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.AssemblyInfo.cs
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.csproj.CoreCompileInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.csproj.CopyComplete
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\refint\CheckBread.dll
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.pdb
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\CheckBread.genruntimeconfig.cache
+E:\Учёба\КИПИЯП\Lesson16\CheckBread\obj\Debug\net6.0\ref\CheckBread.dll
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\CheckBread.exe
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\CheckBread.deps.json
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\CheckBread.runtimeconfig.json
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\CheckBread.dll
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\CheckBread.pdb
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\BreadLib.dll
+E:\Учёба\Практика по пр\Les18\CheckBread\bin\Debug\net6.0\BreadLib.pdb
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.csproj.CopyComplete
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.dll
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\refint\CheckBread.dll
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.pdb
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\CheckBread.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les18\CheckBread\obj\Debug\net6.0\ref\CheckBread.dll

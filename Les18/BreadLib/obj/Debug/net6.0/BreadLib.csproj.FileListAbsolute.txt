@@ -1,0 +1,24 @@
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\bin\Debug\net6.0\BreadLib.deps.json
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\bin\Debug\net6.0\BreadLib.dll
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\bin\Debug\net6.0\BreadLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.csproj.AssemblyReference.cache
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.AssemblyInfoInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.AssemblyInfo.cs
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.csproj.CoreCompileInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.dll
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\refint\BreadLib.dll
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\BreadLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\BreadLib\obj\Debug\net6.0\ref\BreadLib.dll
+E:\Учёба\Практика по пр\Les18\BreadLib\bin\Debug\net6.0\BreadLib.deps.json
+E:\Учёба\Практика по пр\Les18\BreadLib\bin\Debug\net6.0\BreadLib.dll
+E:\Учёба\Практика по пр\Les18\BreadLib\bin\Debug\net6.0\BreadLib.pdb
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.dll
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\refint\BreadLib.dll
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\BreadLib.pdb
+E:\Учёба\Практика по пр\Les18\BreadLib\obj\Debug\net6.0\ref\BreadLib.dll

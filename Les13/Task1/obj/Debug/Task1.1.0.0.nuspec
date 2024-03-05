@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Task1</id>
+    <version>1.0.0</version>
+    <authors>Task1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Учёба\Практика по пр\Les13\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json" target="lib\net6.0\Task1.runtimeconfig.json" />
+    <file src="E:\Учёба\Практика по пр\Les13\Task1\bin\Debug\net6.0\Task1.dll" target="lib\net6.0\Task1.dll" />
+  </files>
+</package>

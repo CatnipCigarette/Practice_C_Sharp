@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les2\Dop\bin\Debug\net6.0\Dop.exe
+E:\Учёба\Практика по пр\Les2\Dop\bin\Debug\net6.0\Dop.deps.json
+E:\Учёба\Практика по пр\Les2\Dop\bin\Debug\net6.0\Dop.runtimeconfig.json
+E:\Учёба\Практика по пр\Les2\Dop\bin\Debug\net6.0\Dop.dll
+E:\Учёба\Практика по пр\Les2\Dop\bin\Debug\net6.0\Dop.pdb
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.dll
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\refint\Dop.dll
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.pdb
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\Dop.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les2\Dop\obj\Debug\net6.0\ref\Dop.dll

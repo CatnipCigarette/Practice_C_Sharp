@@ -1,0 +1,10 @@
+﻿<Window x:Class="Task4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Button Example" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="stackPanel" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Наведите курсор на меня" Width="156" Height="30" MouseEnter="Button_MouseEnter" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

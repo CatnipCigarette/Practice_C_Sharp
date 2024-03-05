@@ -1,0 +1,17 @@
+E:\Учёба\Практика по пр\Les27-28\Task1\bin\Release\Task1.exe.config
+E:\Учёба\Практика по пр\Les27-28\Task1\bin\Release\Task1.exe
+E:\Учёба\Практика по пр\Les27-28\Task1\bin\Release\Task1.pdb
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\XMLViewer.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\XMLViewer.csproj.SuggestedBindingRedirects.cache
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\AddItemWindow.baml
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\MainWindow.baml
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\AddItemWindow.g.cs
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\MainWindow.g.cs
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\App.g.cs
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\Task1_MarkupCompile.cache
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\Task1.g.resources
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\Task1.Properties.Resources.resources
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\XMLViewer.csproj.GenerateResource.cache
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\XMLViewer.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\Task1.exe
+E:\Учёба\Практика по пр\Les27-28\Task1\obj\Release\Task1.pdb

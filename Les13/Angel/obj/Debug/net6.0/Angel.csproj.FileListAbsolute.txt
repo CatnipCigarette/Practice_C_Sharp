@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les13\Angel\bin\Debug\net6.0\Angel.exe
+E:\Учёба\Практика по пр\Les13\Angel\bin\Debug\net6.0\Angel.deps.json
+E:\Учёба\Практика по пр\Les13\Angel\bin\Debug\net6.0\Angel.runtimeconfig.json
+E:\Учёба\Практика по пр\Les13\Angel\bin\Debug\net6.0\Angel.dll
+E:\Учёба\Практика по пр\Les13\Angel\bin\Debug\net6.0\Angel.pdb
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.dll
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\refint\Angel.dll
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.pdb
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\Angel.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les13\Angel\obj\Debug\net6.0\ref\Angel.dll

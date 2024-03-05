@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les4\ula\bin\Debug\net6.0\ula.exe
+E:\Учёба\Практика по пр\Les4\ula\bin\Debug\net6.0\ula.deps.json
+E:\Учёба\Практика по пр\Les4\ula\bin\Debug\net6.0\ula.runtimeconfig.json
+E:\Учёба\Практика по пр\Les4\ula\bin\Debug\net6.0\ula.dll
+E:\Учёба\Практика по пр\Les4\ula\bin\Debug\net6.0\ula.pdb
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.dll
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\refint\ula.dll
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.pdb
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ula.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les4\ula\obj\Debug\net6.0\ref\ula.dll

@@ -1,0 +1,24 @@
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\bin\Debug\net6.0\ShapeLib.deps.json
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\bin\Debug\net6.0\ShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\bin\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.csproj.AssemblyReference.cache
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.AssemblyInfoInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.AssemblyInfo.cs
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.csproj.CoreCompileInputs.cache
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\refint\ShapeLib.dll
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\КИПИЯП\Lesson16\Lesson16\obj\Debug\net6.0\ref\ShapeLib.dll
+E:\Учёба\Практика по пр\Les18\Lesson16\bin\Debug\net6.0\ShapeLib.deps.json
+E:\Учёба\Практика по пр\Les18\Lesson16\bin\Debug\net6.0\ShapeLib.dll
+E:\Учёба\Практика по пр\Les18\Lesson16\bin\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.dll
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\refint\ShapeLib.dll
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ShapeLib.pdb
+E:\Учёба\Практика по пр\Les18\Lesson16\obj\Debug\net6.0\ref\ShapeLib.dll

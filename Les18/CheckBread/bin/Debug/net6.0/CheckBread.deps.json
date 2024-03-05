@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CheckBread/1.0.0": {
+        "dependencies": {
+          "BreadLib": "1.0.0"
+        },
+        "runtime": {
+          "CheckBread.dll": {}
+        }
+      },
+      "BreadLib/1.0.0": {
+        "runtime": {
+          "BreadLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckBread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreadLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

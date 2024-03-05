@@ -1,0 +1,15 @@
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.csproj.AssemblyReference.cache
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.AssemblyInfoInputs.cache
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.AssemblyInfo.cs
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.csproj.CoreCompileInputs.cache
+E:\Учёба\Практика по пр\Les3\Sana\bin\Debug\net6.0\Sana.exe
+E:\Учёба\Практика по пр\Les3\Sana\bin\Debug\net6.0\Sana.deps.json
+E:\Учёба\Практика по пр\Les3\Sana\bin\Debug\net6.0\Sana.runtimeconfig.json
+E:\Учёба\Практика по пр\Les3\Sana\bin\Debug\net6.0\Sana.dll
+E:\Учёба\Практика по пр\Les3\Sana\bin\Debug\net6.0\Sana.pdb
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.dll
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\refint\Sana.dll
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.pdb
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\Sana.genruntimeconfig.cache
+E:\Учёба\Практика по пр\Les3\Sana\obj\Debug\net6.0\ref\Sana.dll
